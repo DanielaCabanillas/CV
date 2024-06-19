@@ -1,0 +1,14 @@
+.headlines {
+    color:#2a7bff;
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#name {
+    font-size: 35px;
+}
+
+.perfil {
+    background-color: lightcyan;
+    color: gray;
+}
